@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with CDAC C-CAT
 - 💬 Ask me about Java+Spring Boot
 - 📫 How to reach me: mayurbankar10@gmail.com
-- 😄 Pronouns: Savkar
-- ⚡ Fun fact: Busy😎
+- 😄 Pronouns: Savkar😎
+- ⚡ Fun fact: Busy
